@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hasnaa El-gammal</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A backend developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **hasnaaahamed2@gmail.com**
 
-- 📄 My Resume is [Here](https://drive.google.com/file/d/1DH44waslW-wXqgExleaxJNJ_YEp0c-Pm/view?usp=sharing)
+- 📄 My Resume is [Here](https://drive.google.com/file/d/1Q3E2SiB29-2oyxd__W0RYOhk60bKz5Qs/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
