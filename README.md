@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hasnaaahamed2@gmail.com**
 
-- 📄 My Resume is [Here](https://drive.google.com/file/d/1Q3E2SiB29-2oyxd__W0RYOhk60bKz5Qs/view?usp=sharing))
+- 📄 My Resume is [Here](https://drive.google.com/file/d/1Q3E2SiB29-2oyxd__W0RYOhk60bKz5Qs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
